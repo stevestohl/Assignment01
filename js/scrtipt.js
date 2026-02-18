@@ -1,11 +1,9 @@
-// document.write('hello')
-
 //Step 1
-// // let someMonth
-// // function theMonth()
-// // let currentMonth
-// // let summerMonth
-// // let myLibraryFunction
+// let someMonth
+// function theMonth()
+// let currentMonth
+// let summerMonth
+// let myLibraryFunction
 
 //Step 2 
 // numeric literal expression: 8
